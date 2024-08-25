@@ -23,20 +23,18 @@
 
 <b>LocatMap<b> LocatMap is a dynamic application designed to quickly and accurately locate individuals on a map. By entering your name, surname, and geographical coordinates, LocatMap will display a map with a pin marking your exact location. This tool is perfect for quickly identifying and sharing precise locations with ease.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 
 * [React-Native-TypeScript]
 * [GOOGLE_MAPS_API_KEY]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
 
 Bryan Daniel - [@twitter_handle](https://twitter.com/brayanqo10) - Brayanqo10@gmail.com
-
-Project Link: [@Proyect_Start]([https://github.com/DragontitanB/WeatherPage/tree/a17542f8a47af2828bc985fce2eb624ce40b29ac](https://github.com/DragontitanB/App-Map-Fuction))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
