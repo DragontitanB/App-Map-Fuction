@@ -23,7 +23,7 @@ type Props = {
   navigation: MapScreenNavigationProp;
 };
 
-/*Geocoder.init('AIzaSyAtXq6mpEvSiJQjcX9Y2Ao-RQ-IOkRvg7U'); // Reemplaza 'YOUR_GOOGLE_MAPS_API_KEY' con tu clave de API de Google Maps*/
+
 
 const MapScreen: React.FC<Props> = ({ route }) => {
   const { firstName, lastName, latitude, longitude } = route.params;
